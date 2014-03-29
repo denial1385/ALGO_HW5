@@ -13,7 +13,7 @@ import java.math.*;
 
 public class RecMinMaxer {
 	
-
+ 
 	static int[] nums = {2,2,2,2}; 
 	//static int[] firstHalf = new int[0];
 	static int iterationCounter = 0;
